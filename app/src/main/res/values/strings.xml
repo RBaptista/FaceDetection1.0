@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceDetection1.0</string>
+    <string name="go_to_image">Go To Image</string>
+</resources>
